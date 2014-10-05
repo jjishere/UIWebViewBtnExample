@@ -4,6 +4,7 @@
 //
 //  Created by JJ on 10/5/14.
 //  Copyright (c) 2014 appsharenow. All rights reserved.
+//  Site: www.appsharenow.com
 //
 
 #import "AppDelegate.h"
